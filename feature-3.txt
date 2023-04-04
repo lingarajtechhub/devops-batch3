@@ -4,4 +4,8 @@ this is a new feature
 
 another feature here
 
+<<<<<<< HEAD
 
+=======
+4:24:pm another feature added here.
+>>>>>>> dev
